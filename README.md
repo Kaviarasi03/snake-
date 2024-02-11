@@ -1,0 +1,1 @@
+In this Python implementation, players use arrow keys or designated keys to control the snake's movement. The snake grows longer each time it consumes a food pellet, increasing the challenge of navigating the playing field without crashing. The game ends when the snake collides with itself or the walls.
